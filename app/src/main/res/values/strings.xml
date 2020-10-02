@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">implant_t</string>
+    <string name="plastinysus">Пластины с угловой стабильностью</string>
+    <string name="vintydlyaplastinsus">Винты для пластин с угловой стабильностью</string>
+    <string name="plastinybezus">Пластины без угловой стабильности</string>
+    <string name="vintydlyaosteo">Винты для остеосинтеза</string>
+    <string name="instrumentdlyaustanovki">Инструмент для установки</string>
+    <string name="komplektuushiedlyailizar">Комплектующие к аппарату Илизарова и АВФ</string>
+    <string name="shtiftyisterzhny">Штифты и стержни для остеосинтеза</string>
+    <string name="implant">Имплант</string>
+</resources>
